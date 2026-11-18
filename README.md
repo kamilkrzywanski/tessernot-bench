@@ -1,12 +1,12 @@
-# ocr-pro benchmark documents
+# tessernot benchmark documents
 
-The page images of the [ocr-pro](https://github.com/kamilkrzywanski/ocr-pro) benchmark, and the PDF
-and DjVu originals of the pages rendered from them. ocr-pro mounts this repository as the submodule
-`bench/data`; the reference transcriptions, the sets and the tools stay in ocr-pro's `bench/`.
+The page images of the [tessernot](https://github.com/kamilkrzywanski/tessernot) benchmark, and the PDF
+and DjVu originals of the pages rendered from them. tessernot mounts this repository as the submodule
+`bench/data`; the reference transcriptions, the sets and the tools stay in tessernot's `bench/`.
 
 ## Licenses
 
-These files are not under ocr-pro's Apache License. Each keeps the license of its source: public
+These files are not under tessernot's Apache License. Each keeps the license of its source: public
 domain, [CC0](https://creativecommons.org/publicdomain/zero/1.0/),
 [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/),
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
